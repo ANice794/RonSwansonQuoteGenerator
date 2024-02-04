@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: CSC340.SwansonQuotes.SwansonQuotesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.985 s -- in CSC340.SwansonQuotes.SwansonQuotesApplicationTests
